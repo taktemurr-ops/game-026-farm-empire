@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_026_farm_empire/core/arcade.dart';
-import 'package:game_026_farm_empire/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_026_farm_empire/game/tycoon_engine.dart';
 import 'package:game_026_farm_empire/game/rules.dart';
 
